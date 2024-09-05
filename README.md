@@ -1,4 +1,8 @@
 # LigaInglesa-2017-2018
+
+link databricks: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1440330292204602/2640220711845033/1781645341292672/latest.html
+
+
 En este proyecto, se realizó un análisis exhaustivo de los equipos y jugadores de la liga inglesa durante la temporada 2017-2018 con el objetivo de supuestamente asesorar a un inversor interesado en crear un nuevo equipo de fútbol en esta liga. El propósito principal fue identificar los tipos de jugadores más adecuados y definir un estilo de juego que podría maximizar el éxito del equipo futuro, utilizando datos históricos sobre resultados de partidos, estadísticas de equipos y estadísticas individuales de jugadores.
 
 Para este análisis, se utilizaron tres conjuntos de datos principales: `results.csv`, que contenía los resultados por partido; `season_stats.json`, con estadísticas agregadas por equipo; y `players.csv`, que recopilaba estadísticas individuales de los jugadores. El enfoque metodológico siguió las pautas de un análisis de datos descriptivo, comenzando con la comprensión del contexto general del problema y la selección de las variables más relevantes para el análisis, basándose en su importancia para la toma de decisiones estratégicas del inversor.
