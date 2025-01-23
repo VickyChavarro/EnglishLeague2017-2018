@@ -1,6 +1,6 @@
 link databricks: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1440330292204602/2640220711845033/1781645341292672/latest.html
 
-- The present project constitutes a comprehensive analysis of English league teams and players during the 2017-2018 season. The primary objective of this analysis was to provide a report to an investor interested in creating a new football team in this league. The primary objective was to ascertain the most suitable types of players and define a style of play that could optimise the future team's success. This was achieved by utilising historical data on match results, team statistics and individual player statistics.
+- The primary objective of this analysis was to provide a report to an investor interested in creating a new football team in this league. The purpose was to ascertain the most suitable types of players and define a style of play that could optimise the future team's success. This was achieved by utilising historical data on match results, team statistics and individual player statistics.
 
 - The analysis drew upon three primary datasets: The first of these was labelled 'results.csv' and contained the match results; the second was labelled 'season_stats.json' and contained the aggregated team statistics; and the third was labelled 'players.csv' and contained the individual player statistics. 
 
